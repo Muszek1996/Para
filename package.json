@@ -1,0 +1,16 @@
+{
+  "name": "Para",
+  "version": "1.0.0",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "body-parser": "latest",
+    "express": "^4.16.4",
+    "linq": "^3.1.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.2",
+    "mongoose-unique-validator": "^2.0.2",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
